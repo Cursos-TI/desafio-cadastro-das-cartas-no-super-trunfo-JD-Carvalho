@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("DESAFIO NOVATO SUPER TRUNFO\n");
+    printf("DESAFIO---NOVATO--SUPER---TRUNFO\n");
     // ===== Variáveis da Carta 1 =====
     char estado1;
     char codigo1[4];
